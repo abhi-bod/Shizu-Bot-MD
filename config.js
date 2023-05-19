@@ -22,8 +22,8 @@ global.packname = '  『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎�
 '
 global.author = '⍟ABHI » SAR⍟'
 global.wm = '⍟Abhi»⍟ V5.3'
-global.igfg = '⍟Ahmad » Ali⍟'
-global.wait = '*[❗] Wait, Processing...*'
+global.igfg = '⍟abhi » Ali⍟'
+global.wait = '*[🤗] Wait, Processing...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
